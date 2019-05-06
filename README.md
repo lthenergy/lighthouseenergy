@@ -1,2 +1,2 @@
-# lighthouseenergy
-Light House Energy Home Page
+# Light House Energy Home Page
+
