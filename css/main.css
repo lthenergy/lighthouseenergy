@@ -1,7 +1,7 @@
 /* Header & Background */
 .jumbotron {
   text-align: center;
-  /* background-image: url("../img/lighthouse-wallpapers-164480266.jpg"); */
+  /* background-image: url("../img/lighthouse-wallpapers-164480266-cropped.jpg"); */
   background-image: url("../img/lighthouse-photo-1512649408904-c0a00fb810da-cropped.jpg");
   background-size: cover;
   background-position: right top;
@@ -25,9 +25,11 @@ header {
   margin-top: 0;
 }
 header p {
-  /* font-family: 'Fredericka the Great', cursive; */
-  font-size: 48px;
-  padding-top: 20px;
+  /* font-family: verdana; */
+  /* font-weight: bold; */
+  color: black;
+  font-size: 3em;
+  padding-top: 0.5em;
 }
 /*nav bar, collapses to drop down menu in smaller browsers*/
 .nav {
